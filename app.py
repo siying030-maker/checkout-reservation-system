@@ -13,7 +13,7 @@ from core.google_api import (
 # ==================================================
 
 st.set_page_config(
-    page_title="宿舍離宿預約系統",
+    page_title="宿舍離宿預約",
     page_icon="🏠",
     layout="centered",
 )
